@@ -16,4 +16,4 @@ I am a Computer science student <img src="https://media.giphy.com/media/WUlplcMp
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amur312&theme=dark&locale=ru)](https://git.io/streak-stats)
 
-https://github-readme-streak-stats.herokuapp.com/?user=Amur312
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amur312)](https://github.com/anuraghazra/github-readme-stats)
