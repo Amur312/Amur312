@@ -11,3 +11,8 @@
 </div>
 
 I am a Computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&locale=ru)](https://git.io/streak-stats)
+
