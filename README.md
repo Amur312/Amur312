@@ -20,7 +20,5 @@ I am a Computer science student <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- uses: actions/checkout@v3
-  with:
-    fetch-depth: 0
+
 <!-- BLOG-POST-LIST:END -->
