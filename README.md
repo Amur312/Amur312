@@ -2,6 +2,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<p align="center">
+<a href="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open">
+    <img src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing" width="512" height="128">
+</a>
+</p>
 
 <h1 align="center">Hi there, I'm <a href="https://vk.com/idamur00" target="_blank">Amur</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
