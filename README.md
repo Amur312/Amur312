@@ -19,7 +19,9 @@ I am a Computer science student <img src="https://media.giphy.com/media/WUlplcMp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amur312&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
 
 - uses: Amur312
   with:
     fetch-depth: 0
+<!-- BLOG-POST-LIST:END -->
