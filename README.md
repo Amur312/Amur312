@@ -9,5 +9,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amur312&theme=dark&hide_border=true&border_radius=4.6&locale=ru)](https://git.io/streak-stats)
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&hide_border=&locale=ru)](https://git.io/streak-stats)
