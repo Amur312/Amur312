@@ -14,5 +14,5 @@ I am a Computer science student <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amur312&theme=dark&locale=ru)](https://git.io/streak-stats)
 
