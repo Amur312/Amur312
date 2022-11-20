@@ -20,6 +20,6 @@ I am a Computer science student <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :writing_hand: Blog Posts :
 
-- uses: actions/Amur312
+- uses: actions/checkout@v3
   with:
     fetch-depth: 0
