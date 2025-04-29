@@ -4,11 +4,11 @@
          alt="Amur" width="140" style="border-radius:50%;" />
   </a>
   <h1>👋 Hi, I'm Amur</h1>
-  <p>Junior Java Developer at <a href="https://www.sberbank.ru" target="_blank">Сбербанк</a></p>
+  <p> Java Developer at <a href="https://www.sberbank.ru" target="_blank">Сбербанк</a></p>
   <p>
     <a href="https://vk.com/idamur00">🔗 VK</a> •
-    <a href="https://t.me/your_tg">💬 Telegram</a> •
-    <a href="mailto:your.email@example.com">✉️ Email</a>
+    <a href="https://t.me/Amur312">💬 Telegram</a> •
+    <a href="mailto:dzarasovamur@gmail.com">✉️ Email</a>
   </p>
 </div>
 
