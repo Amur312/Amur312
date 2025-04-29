@@ -1,26 +1,62 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
-<h1 align="center">Hi there, I'm <a href="https://vk.com/idamur00" target="_blank">Amur</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"></h3>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <a href="https://vk.com/idamur00" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/1d59fb46-80f1-4a14-a17a-849ac1d3c65a?s=250"
+         alt="Amur" width="140" style="border-radius:50%;" />
+  </a>
+  <h1>👋 Hi, I'm Amur</h1>
+  <p>Junior Java Developer at <a href="https://www.sberbank.ru" target="_blank">Сбербанк</a></p>
+  <p>
+    <a href="https://vk.com/idamur00">🔗 VK</a> •
+    <a href="https://t.me/your_tg">💬 Telegram</a> •
+    <a href="mailto:your.email@example.com">✉️ Email</a>
+  </p>
 </div>
 
-### :I am a Computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+---
 
-### :fire: My Stats :
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-blue?logo=java" alt="Java 17" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.0-green?logo=springboot" alt="Spring Boot 3" />
+  <img src="https://img.shields.io/badge/PostgreSQL-13-blue?logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Kafka-2.13-orange?logo=apachekafka" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Liquibase-4.0-lightgrey?logo=liquibase" alt="Liquibase" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amur312&theme=dark&locale=ru)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amur312&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amur312&theme=dark&show_icons=true&hide_border=true" 
+       alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amur312&theme=dark&hide_border=true" 
+       alt="Streak Stats" />
+</div>
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
+---
 
-<!-- BLOG-POST-LIST:END -->
+### 🔝 Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amur312&layout=compact&theme=dark&hide_border=true" 
+       alt="Top Languages" />
+</div>
+
+---
+
+### 📌 Pinned Projects
+<div align="center">
+  <a href="https://github.com/Amur312/your-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amur312&repo=your-project-1&theme=dark" />
+  </a>
+  <a href="https://github.com/Amur312/your-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amur312&repo=your-project-2&theme=dark" />
+  </a>
+</div>
+
+---
+
+### 📈 Profile Views
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Amur312.Amur312&theme=dark" 
+       alt="visitor badge" />
+</div>
