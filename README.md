@@ -1,8 +1,10 @@
 <div align="center">
   <a href="https://vk.com/idamur00" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/1d59fb46-80f1-4a14-a17a-849ac1d3c65a?s=250"
+         alt="Amur" width="140" style="border-radius:50%;" />
   </a>
   <h1>👋 Hi, I'm Amur</h1>
-  <p> Java Developer at <a href="https://www.sberbank.ru" target="_blank">Сбербанк</a></p>
+  <p>Java Developer at <a href="https://www.sberbank.ru" target="_blank">Сбербанк</a></p>
   <p>
     <a href="https://vk.com/idamur00">🔗 VK</a> •
     <a href="https://t.me/Amur312">💬 Telegram</a> •
@@ -19,7 +21,14 @@
   <img src="https://img.shields.io/badge/PostgreSQL-13-blue?logo=postgresql" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Kafka-2.13-orange?logo=apachekafka" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Liquibase-4.0-lightgrey?logo=liquibase" alt="Liquibase" />
+  <img src="https://img.shields.io/badge/C-11-lightgrey?logo=c&logoColor=00599C" alt="C" />
 </p>
+
+---
+
+### 🛠️ Projects & Goals  
+- **RU**: Увлекательные CLI-утилиты и микросервисы на Java и C  
+- **EN**: Fun CLI tools and microservices in Java & C  
 
 ---
 
