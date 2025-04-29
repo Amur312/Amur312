@@ -1,7 +1,5 @@
 <div align="center">
   <a href="https://vk.com/idamur00" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/1d59fb46-80f1-4a14-a17a-849ac1d3c65a?s=250"
-         alt="Amur" width="140" style="border-radius:50%;" />
   </a>
   <h1>👋 Hi, I'm Amur</h1>
   <p>Java Developer at <a href="https://www.sberbank.ru" target="_blank">Сбербанк</a></p>
